@@ -1,7 +1,7 @@
 # HR Data Analysis
 
 ## Description
-This project analyzes a comprehensive dataset sourced from the Google Advanced Data Analysis course. The dataset encompasses a range of attributes concerning employees, from demographic details to job-related factors. The primary objective of this analysis is to forecast employee turnover and discern the underlying factors contributing to employee attrition.
+The dataset encompasses a range of attributes concerning employees, from demographic details to job-related factors. The primary objective of this analysis is to forecast employee turnover and discern the underlying factors contributing to employee attrition.
 
 ## About the Dataset
 The dataset contains various attributes, including:
